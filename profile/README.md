@@ -2,6 +2,8 @@
 
 OpenResty Plus 致力于打造开源、易用的 OpenResty 管理平台，帮助开发者和运维团队统一管理 OpenResty 实例、配置与运行状态。
 
+![OpenResty Plus 架构图](https://raw.githubusercontent.com/OpenrestyPlus/orp-backend/main/docs/openresty-architecture-polished.png)
+
 ## 🙋 关于我们
 
 OpenResty Plus 提供管理控制台、Go 控制面、节点 Agent 和配置导入工具，帮助你完成配置管理、版本发布、节点状态查看与日常运维。
